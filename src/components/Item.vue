@@ -5,7 +5,7 @@ defineProps({
 </script>
 <template>
   <div class="flex flex-col pt-24 content-center place-items-center align-middle items-center w-12/12">
-    <div class="w-6/12 relative focus-within:ring-2 focus-within:ring-indigo-500">
+    <div class="w-12/12 lg:w-6-12 relative focus-within:ring-2 focus-within:ring-indigo-500">
       <h3 class="text-sm font-semibold text-gray-800">
         <div class="hover:underline focus:outline-none">
           <!-- Extend touch target to entire panel -->
